@@ -109,9 +109,7 @@ mermaid:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "https://github.com/just-the-docs/just-the-docs"
+aux_links: false
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -143,7 +141,7 @@ liquid:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: 'Copyright &copy; 2025 Boomer Olsen.
+footer_content: false
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
