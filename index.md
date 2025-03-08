@@ -24,10 +24,35 @@ Distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/t
 
 ### Contributing
 
-----
+---
+title: Research
+layout: 
+nav_order: 2
+description: ""
+permalink: /
 
-[^1]: The [source file for this page] uses all three markup languages.
+#
+---
+title: Publications
+layout: 
+nav_order: 3
+description: ""
+permalink: /
 
-[^2]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+#
+---
+title: Repositories
+layout: 
+nav_order: 4
+description: ""
+permalink: /
 
+#
+---
+title: Contact
+layout: 
+nav_order: 5
+description: ""
+permalink: /
 
+#
