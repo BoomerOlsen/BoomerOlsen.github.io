@@ -22,6 +22,9 @@ repository: https://BoomerOlsen.github.io # for github-metadata
 # The Favicon is the icon that shows up when you navigate to the webpage
 favicon: "/BlockU_favicon48.png"
 
+# Font options
+font: "Roboto"
+
 permalink: pretty
 
 defaults:
@@ -142,8 +145,7 @@ liquid:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: true
-  - title: "© 2025 Boomer Olsen"
+footer_content: "© 2025 Boomer Olsen"
 
 # Footer last edited timestamp
 last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
