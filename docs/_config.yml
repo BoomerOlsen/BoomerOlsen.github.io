@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Boomer Olsen
-description: A Jekyll theme for document
+title: "Research Hub"
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://BoomerOlsen.github.io"
 repository: https://BoomerOlsen.github.io # for github-metadata
