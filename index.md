@@ -26,7 +26,7 @@ Distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/t
 
 ---
 title: Research
-layout: 
+layout: home
 nav_order: 2
 description: ""
 permalink: /
@@ -35,7 +35,7 @@ permalink: /
 #
 ---
 title: Publications
-layout: 
+layout: home
 nav_order: 3
 description: ""
 permalink: /
@@ -44,7 +44,7 @@ permalink: /
 #
 ---
 title: Repositories
-layout: 
+layout: home
 nav_order: 4
 description: ""
 permalink: /
@@ -53,7 +53,7 @@ permalink: /
 #
 ---
 title: Contact
-layout: 
+layout: home
 nav_order: 5
 description: ""
 permalink: /
