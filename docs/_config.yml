@@ -20,7 +20,12 @@ url: "https://BoomerOlsen.github.io"
 repository: https://BoomerOlsen.github.io # for github-metadata
 
 # The Favicon is the icon that shows up when you navigate to the webpage
-favicon: "/BlockU_favicon48.png"
+favicon: "/assets/images/BlockU_favicon48.png"
+
+# Sidebar customization
+sidebar:
+  logo: "/assets/images/BBO_Headshot.png"  # The image path
+  description: "Headshot"  # Your description
 
 # Font options
 font: "Roboto"
