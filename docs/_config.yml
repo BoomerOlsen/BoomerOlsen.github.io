@@ -19,6 +19,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/BoomerOlsen/BoomerOlsen.github.io.git"
 repository: just-the-docs/just-the-docs # for github-metadata
 
+# The Favicon is the icon that shows up when you navigate to the webpage
+favicon: "/BlockU_favicon48.png"
+
 permalink: pretty
 
 defaults:
