@@ -3,6 +3,6 @@ title: Connect
 nav_order: 5
 ---
 
-# Contact
+# Connect
 
 Website under construction.
