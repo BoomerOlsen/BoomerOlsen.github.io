@@ -1,15 +1,12 @@
 source "https://rubygems.org"
 
-gemspec
-
-# Gems related to Jekyll
+gem "jekyll", "~> 3.9"  # Ensure you're using a version supported by GitHub Pages
 gem "jekyll-github-metadata", ">= 2.15"
-gem "jekyll-include-cache", group: :jekyll_plugins
-gem "jekyll-sitemap", group: :jekyll_plugins
+gem "jekyll-seo-tag"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
 
-# Optional Gems
-gem "base64"
-gem "csv"
-
-# Development-related Gems
-gem "html-proofer", "~> 5.0", group: :development
+# Development dependencies
+group :development do
+  gem "html-proofer", "~> 5.0"
+end
