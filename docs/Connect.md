@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Connect
 nav_order: 5
 ---
 
