@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-description: "Welcome to the Research Hub of Boomer B. Olsen, MD"
+description: "Welcome to the Research Hub of Boomer B. Olsen, DO"
 permalink: /
 ---
 
