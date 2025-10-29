@@ -1,8 +1,73 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+# Site settings
+title: Research Hub
+description: "Research and publications by Boomer B. Olsen, DO"
+baseurl: "" # Do not change — required for GitHub Pages root
+url: "https://BoomerOlsen.github.io"
+repository: "BoomerOlsen/BoomerOlsen.github.io"
 
-url: https://just-the-docs.github.io
+# Theme
+remote_theme: just-the-docs/just-the-docs
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Favicon and Sidebar
+favicon: "/assets/images/BlockU_favicon48.png"
+sidebar:
+  logo: "/assets/images/BBO_Headshot.png"
+  description: "Boomer B. Olsen, MD"
+
+# Font and layout
+font: "Roboto"
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+# Navigation and structure
+nav_enabled: true
+nav_sort: case_sensitive
+nav_external_links: false
+
+# Search settings
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 2
+  rel_url: true
+  button: false
+
+# Footer
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: "© 2025 Boomer Olsen"
+
+# Repository editing links
+gh_edit_link: false
+gh_edit_repository: "https://github.com/BoomerOlsen/BoomerOlsen.github.io"
+gh_edit_branch: "main"
+
+# Color scheme
+color_scheme: nil
+
+# Callouts
+callouts_level: quiet
+callouts:
+  important:
+    title: Important
+    color: blue
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+# HTML Compression
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
