@@ -12,7 +12,7 @@ remote_theme: just-the-docs/just-the-docs
 favicon: "/assets/images/BlockU_favicon48.png"
 sidebar:
   logo: "/assets/images/BBO_Headshot.png"
-  description: "Boomer B. Olsen, MD"
+  description: "Boomer B. Olsen, DO"
 
 # Font and layout
 font: "Roboto"
